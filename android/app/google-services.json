@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518109219610",
+    "project_id": "videostreaming-df822",
+    "storage_bucket": "videostreaming-df822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518109219610:android:205855e02e1f81ddce3aa3",
+        "android_client_info": {
+          "package_name": "com.vs.video_streaming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvDgZ15OeWkcmK_WNBSnLFm0-Pzk_c9tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
