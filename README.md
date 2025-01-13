@@ -1,3 +1,19 @@
+
+Developed By : - Chandra Prakash, Software Engineer
+
+This is a video streaming mobile application which is developed using Flutter & Native Code in Java Language.
+
+For any Query: - saimverna70@gmail.com
+
+
+
+Credits:
+
+    Self: by R&D
+
+
+
+
 # video_streaming
 
 A new Flutter project.
